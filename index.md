@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "taDa"
 ---
 
-I'm glad you are here. I plan to talk about ...
+One plot every day; is this possible?
